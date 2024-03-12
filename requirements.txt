@@ -10,3 +10,4 @@ gunicorn==20.0.4
 lxml==4.7.1
 scipy==1.7.3
 dash_bootstrap_components==1.0.3
+werkzeug==2.0.1
